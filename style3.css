@@ -1,0 +1,26 @@
+.grid{
+    display: grid;
+    grid-gap: 10px;  
+    }
+    .navabar1{
+    background-color:rgb(5, 22, 27);
+    text-align: center; 
+    color:rgb(146, 138, 138);
+    height: 60px;
+    width: 100%;
+    }
+    .napis{
+        margin-top:7px;
+        color: rgb(211, 203, 203);
+    }
+    .bleble{
+        text-align:center;
+        font-size: 5rem;
+    }
+    .blebleble{
+        text-align:center;
+    }
+    body{
+        background-color: turquoise;
+    }
+    
